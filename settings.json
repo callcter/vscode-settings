@@ -1,0 +1,139 @@
+{
+  "workbench.colorTheme": "Tomorrow Night Eighties",
+  "workbench.iconTheme": "vs-seti",
+  "editor.tabSize": 2,
+  "window.zoomLevel": 0,
+  "editor.renderWhitespace": "all",
+  "editor.wordWrap": "off",
+  "terminal.integrated.shell.osx": "/bin/zsh",
+  "terminal.integrated.shellArgs.osx": [],
+  "telemetry.enableCrashReporter": false,
+  "editor.minimap.enabled": false,
+
+  "jshint.options": {
+    "esversion": 8,
+    "asi": true,
+    "node": true
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "workbench.sideBar.location": "left",
+  "gitlens.advanced.messages": {
+    "suppressCommitHasNoPreviousCommitWarning": false,
+    "suppressCommitNotFoundWarning": false,
+    "suppressFileNotUnderSourceControlWarning": false,
+    "suppressGitVersionWarning": false,
+    "suppressLineUncommittedWarning": false,
+    "suppressNoRepositoryWarning": false,
+    "suppressResultsExplorerNotice": false,
+    "suppressShowKeyBindingsNotice": true,
+    "suppressUpdateNotice": false,
+    "suppressWelcomeNotice": true
+  },
+  "explorer.confirmDragAndDrop": false,
+  "gitlens.keymap": "alternate",
+  "java.errors.incompleteClasspath.severity": "ignore",
+  "files.associations": {
+    "*.wpy": "vue"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "gitlens.views.fileHistory.enabled": true,
+  "gitlens.views.lineHistory.enabled": true,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "python.jediEnabled": false,
+  "terminal.integrated.rendererType": "dom",
+  "python.pythonPath": "/usr/local/opt/python/libexec/bin/python",
+  "python.linting.flake8Enabled": true,
+  "python.formatting.provider": "yapf",
+  "python.linting.flake8Args": ["--max-line-length=248"],
+  "python.linting.pylintEnabled": false,
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[javascript]": {
+    "editor.tabSize": 2,
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "[python]": {
+    "editor.tabSize": 4
+  },
+  "[json]": {
+    "editor.tabSize": 2
+  },
+  "[html]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "GithubGistExplorer.github.token": "",
+  "GithubGistExplorer.github.username": "",
+  "GithubGistExplorer.explorer.gistSortBy": "Last Updated",
+  "GithubGistExplorer.explorer.gistAscending": false,
+  "GithubGistExplorer.explorer.subscriptionSortBy": "Last Updated",
+  "GithubGistExplorer.explorer.subscriptionAscending": false,
+  "[javascriptreact]": {},
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "eslint.alwaysShowStatus": true,
+  "eslint.run": "onSave",
+  "eslint.autoFixOnSave": true,
+  "sync.gist": "",
+  "sync.autoUpload": false,
+  "sync.quietSync": true,
+  "peacock.favoriteColors": [
+    {
+      "name": "Angular Red",
+      "value": "#b52e31"
+    },
+    {
+      "name": "Auth0 Orange",
+      "value": "#eb5424"
+    },
+    {
+      "name": "Azure Blue",
+      "value": "#007fff"
+    },
+    {
+      "name": "C# Purple",
+      "value": "#68217A"
+    },
+    {
+      "name": "Gatsby Purple",
+      "value": "#639"
+    },
+    {
+      "name": "Go Cyan",
+      "value": "#5dc9e2"
+    },
+    {
+      "name": "Java Blue-Gray",
+      "value": "#557c9b"
+    },
+    {
+      "name": "JavaScript Yellow",
+      "value": "#f9e64f"
+    },
+    {
+      "name": "Mandalorian Blue",
+      "value": "#1857a4"
+    },
+    {
+      "name": "Node Green",
+      "value": "#215732"
+    },
+    {
+      "name": "React Blue",
+      "value": "#00b3e6"
+    },
+    {
+      "name": "Something Different",
+      "value": "#832561"
+    },
+    {
+      "name": "Vue Green",
+      "value": "#42b883"
+    }
+  ]
+}
